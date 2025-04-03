@@ -11,3 +11,5 @@ I've built an interactive Power BI dashboard to analyze Virat Kohli’s internat
 ✅ Advanced Visuals – Donut & Pie Charts, Line Graphs, Column Charts, and more
 
 📊 Built with: Power BI | DAX | Google Sheets Integration
+
+![Screenshot 2025-04-03 010235](https://github.com/user-attachments/assets/6e97c814-30fe-4168-8d62-b8bbc968d019)
